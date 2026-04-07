@@ -128,3 +128,7 @@ Proiectul se incadreaza corect in fizica computationala prin:
 - comparatie critica intre abordarea fizica si una data-driven
 
 Acest cadru ofera atat interpretabilitate fizica, cat si posibilitatea unei evaluari cantitative a performantelor numerice.
+
+## 9. Bibliografie:
+1. https://khazna.ku.ac.ae/en/publications/a-new-model-for-simulating-heat-air-and-moisture-transport-in-por/
+2. https://hal.science/hal-02052022/file/JB_DD_NM_BR-SG3-2019.pdf
